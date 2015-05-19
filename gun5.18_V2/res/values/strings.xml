@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">gun</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+     <string name="spalsh_mid_notes">提高效率\n远离手机</string>
+        <string name="monitor_mid_notes">不用会死吗</string>
+        <string name="monitor_mid_sign">(?_?)</string>
+     
+      <string name="spalsh_bottom_rights"><b>@</b>一个叫gun的app</string>
+      
+        <string name="main_mid_start">开始</string>
+
+</resources>

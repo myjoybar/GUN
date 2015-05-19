@@ -1,0 +1,13 @@
+<resources>
+
+   <color name="black">#000000</color>
+     
+  <!-- 白色 -->
+    <color name="ivory">#FFFFF0</color>
+    
+     <!-- 红紫色 -->
+    <color name="red">#FF0000</color>
+    <color name="rippelColor">#0099CC</color>
+    
+     <color name="center_bg_color">#1B1B1B</color>
+</resources>
