@@ -22,6 +22,7 @@ public abstract class BaseActivity extends Activity implements OnClickListener {
 		super.onCreate(savedInstanceState);
 		AppManager.getInstance().addActivity(this);
 	}
+	
 
 	@Override
 	public boolean onKeyDown(int keyCode, KeyEvent event) {
